@@ -75,6 +75,10 @@ Universidade: Pitágoras Unopar Anhanguera
 
 Uberaba – MG | 2026
 
+
+## 🖼️ Resultado do projeto
+
+![Animação com Canvas](animacao-canvas.png)
 ---
 
 *Projeto acadêmico desenvolvido para fins de aprendizagem e prática de programação JavaScript.*
